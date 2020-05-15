@@ -1,2 +1,2 @@
 # chat
-server不支持多线程
+server 不支持多线程
