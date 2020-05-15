@@ -1,2 +1,2 @@
 # chat
-server 不支持多线程
+server可以使用netty实现
